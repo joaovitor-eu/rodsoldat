@@ -15,12 +15,12 @@ int main()
     if (lang == 1)
     {
         system("cls");
-        en_us();
+        system("pt_br.bat");
     }
     if (lang == 2)
     {
         system("cls");
-        pt_br();
+       
     }
     return(0);
 }
