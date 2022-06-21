@@ -1,0 +1,1 @@
+sudo cp -r ~/Área\ de\ trabalho /mnt/device
